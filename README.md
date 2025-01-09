@@ -14,7 +14,7 @@ Each topic has its own folder. Click the links below to access detailed notes an
 - [Recursion & Dynamic Programming](./Recursion_DP/)  
 - [System Design](./System_Design/)  
 - [Behavioral Interviews](./Behavioral_Interviews/)  
-
+- [C#](./CSharp/)  
 ---
 
 ## **Training Plan**
