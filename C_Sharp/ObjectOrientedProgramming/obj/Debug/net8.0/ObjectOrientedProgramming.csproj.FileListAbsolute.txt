@@ -1,0 +1,15 @@
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/bin/Debug/net8.0/ObjectOrientedProgramming
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/bin/Debug/net8.0/ObjectOrientedProgramming.deps.json
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/bin/Debug/net8.0/ObjectOrientedProgramming.runtimeconfig.json
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/bin/Debug/net8.0/ObjectOrientedProgramming.dll
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/bin/Debug/net8.0/ObjectOrientedProgramming.pdb
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/ObjectOrientedProgramming.AssemblyInfoInputs.cache
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/ObjectOrientedProgramming.AssemblyInfo.cs
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/ObjectOrientedProgramming.sourcelink.json
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/ObjectOrientedProgramming.dll
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/refint/ObjectOrientedProgramming.dll
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/ObjectOrientedProgramming.pdb
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/ObjectOrientedProgramming.genruntimeconfig.cache
+/Applications/Source/Interview_Prep/InterviewPrep/C_Sharp/ObjectOrientedProgramming/obj/Debug/net8.0/ref/ObjectOrientedProgramming.dll
